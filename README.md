@@ -2,15 +2,15 @@
 This project is to demonstrate my coding skills.
 
 REQUIREMENTS:
-• Read about the following MetaWeather API here https://www.metaweather.com/api/
-• Obtain the device’s GPS coordinates, if available, and pass them to the service.
+1. Read about the following MetaWeather API here https://www.metaweather.com/api/ 
+2. Obtain the device’s GPS coordinates, if available, and pass them to the service. 
 (https://www.metaweather.com/api/location/search/?lattlong=(latt),(long))
-• If coordinates are not available, pass user entered keyword/location name
+3. If coordinates are not available, pass user entered keyword/location name 
 (https://www.metaweather.com /api/location/search/?query=(query))
-• Presently store all the search keyworks/location with a time stamp so that when the
+4. Presently store all the search keyworks/location with a time stamp so that when the
 user can see search history in the future
-• In a list, display each location id, title and type
-• On selecting a location from the list, open another page which would show weather
+5. In a list, display each location id, title and type
+6. On selecting a location from the list, open another page which would show weather
 details for next 5 days
 (https://www.metaweather.com/ /api/location/(woeid))
 
